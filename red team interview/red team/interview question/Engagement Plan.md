@@ -1,0 +1,1 @@
+- Liệt kê các yêu cầu kỹ thuật của red team (Tài nguyên cần thiết, thời hạn)

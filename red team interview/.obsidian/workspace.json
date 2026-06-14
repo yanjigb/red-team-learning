@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "96f1e2721faa7537",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2742869a8a867c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b43a98a62e73508",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "049800226b5aa46c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb1e7e4b5485ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f7dfd5d9da83599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2551996d245ff32e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8f6c08c48be1eda8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48dc44b3a183555e",
+    "type": "split",
+    "children": [
+      {
+        "id": "340806e52c14109d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4518a5233f33ab29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e31e39d12d2401cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "KD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from KD"
+            }
+          },
+          {
+            "id": "85167145af43bc4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f5cc9afe4371cbc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0c600a0ede03988c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "KD.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of KD"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b43a98a62e73508",
+  "lastOpenFiles": [
+    "red team/interview question/Operations plan.md",
+    "red team/Red team.md",
+    "red team/interview question/Engagement Plan.md",
+    "red team/kill chain/Weaponization (chuẩn bị vũ khí).md",
+    "red team/interview question/Remediation plan.md",
+    "red team/interview question/Mission plan.md",
+    "red team/kill chain/Exploitation (Khai thác).md",
+    "red team/kill chain/Actions on Objectives (Đạt mục tiêu).md",
+    "red team/kill chain/Delivery (Đưa payload đến mục tiêu).md",
+    "red team/kill chain/Command & Control (C2).md",
+    "red team/kill chain/Kill chain.md",
+    "red team/interview question/Kế hoạch tấn công.md",
+    "red team/kill chain",
+    "red team/interview question/Cách viết tài liệu ROE (Residential Operational Analysis.md",
+    "red team/interview question/Mô phỏng tấn công đối thủ là gì?.md",
+    "red team/interview question",
+    "red team/network/Layer 3 - Transport.md",
+    "red team/network/UDP.md",
+    "red team/network/TCP Flags.md",
+    "red team/network/TCP.md",
+    "red team/network/Flow khi mở website.md",
+    "red team/network/Port.md",
+    "red team/network/Layer 4 - Application.md",
+    "red team/network/IPV4.md",
+    "red team/network/TCP 3-Way Handshake.md",
+    "red team/network/Routing.md",
+    "red team/network/Layer 1 - Network Access.md",
+    "red team/network/Layer 2 - Internet.md",
+    "red team/network",
+    "Untitled 1",
+    "TCP",
+    "red team",
+    "frontend",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 2.canvas"
+  ]
+}

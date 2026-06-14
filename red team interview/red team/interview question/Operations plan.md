@@ -1,0 +1,1 @@
+- Phiên bản chi tiết tấn công vơi vai trò và trách nhiệm của từng người điều hành

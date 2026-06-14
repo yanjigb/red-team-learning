@@ -1,0 +1,2 @@
+- Là quá trình mô phỏng các kỹ thuật, chiến thuật và hành vi của một đối thủ
+- Mục tiêu là đánh giá và cải thiện khả năng phục hồi của một tổ chức trước các kỹ thuật hoặc cuộc tấn công cụ thể của đối thủ

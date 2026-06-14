@@ -1,0 +1,1 @@
+- Kế hoạch thực thi (lệnh tấn công , khi nào tấn công, trách nhiệm người điều hành)

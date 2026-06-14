@@ -1,0 +1,1 @@
+- Phác thảo giai đoạn tiếp theo sau cuộc tấn công hoàn tất hoặc hướng báo cáo và khắc phục
