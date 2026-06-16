@@ -1,0 +1,1 @@
+Used by email clients to retrieve email and attachments from a remote server.

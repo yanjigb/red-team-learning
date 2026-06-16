@@ -1,0 +1,1 @@
+Used to provide remote access to servers and networking devices.

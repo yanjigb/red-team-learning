@@ -1,0 +1,1 @@
+Sends email messages and attachments from clients to servers and from servers to other email servers.
