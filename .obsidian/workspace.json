@@ -11,10 +11,14 @@
             "id": "a113b629fd037bca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WELL-KNOWN PORTS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "WELL-KNOWN PORTS"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41bd71d226695ae6",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for OSI Model"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from OSI Model"
             }
           },
           {
@@ -150,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSI Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OSI Model"
             }
           }
         ]
@@ -177,5 +185,34 @@
     }
   },
   "active": "a113b629fd037bca",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "PORTS NUMBER.md",
+    "WELL-KNOWN PORTS.md",
+    "red team interview/networking/Networking.md",
+    "OSI Model.md",
+    "red team interview/networking/TCP-IP/TCP.md",
+    "red team interview/networking/TCP-IP/UDP.md",
+    "red team interview/networking/Internet.md",
+    "HTTPS.md",
+    "HTTP.md",
+    "Untitled",
+    "red team interview/networking/A Record.md",
+    "red team interview/networking/How DNS request working.md",
+    "red team interview/networking/DNS Record Types.md",
+    "red team interview/networking/TXT Record.md",
+    "red team interview/networking/MX Record.md",
+    "red team interview/networking/CNAME Record.md",
+    "red team interview/networking/AAAA Record.md",
+    "red team interview/networking/TCP-IP/DNS.md",
+    "red team interview/networking/TLD (Top-Level Domain).md",
+    "red team interview/networking/Subdomain.md",
+    "red team interview/networking/Domain Hierarchy.md",
+    "red team interview/networking/Second-Level Domain.md",
+    "red team interview/networking/Ping.md",
+    "Untitled.md",
+    "red team interview/networking/IP Addresses.md",
+    "red team interview/red team/interview question/Cách viết tài liệu ROE (Residential Operational Analysis.md",
+    "red team interview/networking/TCP-IP/IPV6.md",
+    "red team interview/networking"
+  ]
 }

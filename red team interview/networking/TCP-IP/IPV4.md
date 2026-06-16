@@ -1,2 +1,2 @@
-128 bit.
+32 bit 
 Nhị phân

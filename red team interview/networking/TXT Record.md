@@ -1,0 +1,1 @@
+TXT records are free text fields where any text-based data can be stored
