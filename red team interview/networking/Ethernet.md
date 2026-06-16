@@ -1,0 +1,1 @@
+Là tiêu chuẩn cho các kết nối có dây, sử dụng cáp vật lý như cáp đồng hoặc cáp quang

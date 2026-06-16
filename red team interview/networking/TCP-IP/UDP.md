@@ -1,11 +1,9 @@
-UDP giống ném thư vào hộp thư.
-
 Không kiểm tra.
 Không xác nhận.
 Không gửi lại.
 
 **Ưu điểm:**
-- Nhanh
+- Nhanh hơn, do không cần chờ xác nhận
 - Ít overhead
 
 Ví dụ:

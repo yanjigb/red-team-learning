@@ -1,0 +1,1 @@
+Display the protocols in use, the local address and port numbers, the foreign address and port numbers, and the connection state

@@ -20,3 +20,5 @@
 3389 RDP
 
 ![[WELL-KNOWN PORTS]]
+
+TCP/IP transport layer uses port numbers to identify target applications

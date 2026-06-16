@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a113b629fd037bca",
+            "id": "401a25ebb6c821ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "red team interview/networking/Second-Level Domain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Second-Level Domain"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -183,35 +179,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "a113b629fd037bca",
+  "active": "401a25ebb6c821ea",
   "lastOpenFiles": [
-    "red team interview/networking/WELL-KNOWN PORTS.md",
-    "red team interview/networking/HTTP.md",
-    "red team interview/networking/PORTS NUMBER.md",
+    "red team interview/networking/BGP.md",
     "red team interview/networking/Networking.md",
-    "red team interview/networking/OSI Model.md",
-    "red team interview/networking/TCP-IP/TCP.md",
-    "red team interview/networking/TCP-IP/UDP.md",
-    "red team interview/networking/Internet.md",
+    "Load balancer.md",
     "red team interview/networking/HTTPS.md",
-    "Untitled",
-    "red team interview/networking/A Record.md",
-    "red team interview/networking/How DNS request working.md",
-    "red team interview/networking/DNS Record Types.md",
-    "red team interview/networking/TXT Record.md",
-    "red team interview/networking/MX Record.md",
-    "red team interview/networking/CNAME Record.md",
-    "red team interview/networking/AAAA Record.md",
+    "red team interview/networking/HTTP.md",
     "red team interview/networking/TCP-IP/DNS.md",
-    "red team interview/networking/TLD (Top-Level Domain).md",
-    "red team interview/networking/Subdomain.md",
-    "red team interview/networking/Domain Hierarchy.md",
-    "red team interview/networking/Second-Level Domain.md",
+    "VPN.md",
+    "SSL.md",
+    "TLS.md",
+    "Firewall.md",
+    "red team interview/networking/TCP-IP/Port.md",
+    "red team interview/networking/Registered Ports.md",
+    "red team interview/networking/TCP-IP/UDP.md",
+    "red team interview/networking/TCP-IP/TCP.md",
+    "red team interview/networking/OSI Model.md",
     "red team interview/networking/Ping.md",
-    "Untitled.md",
+    "red team interview/networking/ICMP.md",
+    "red team interview/networking/OSPF.md",
+    "red team interview/networking/Routes.md",
+    "red team interview/networking/Static routing.md",
+    "red team interview/networking/TCP-IP/Router.md",
+    "red team interview/networking/Default gateway.md",
+    "red team interview/networking/Subnet.md",
+    "red team interview/networking/DHCP.md",
     "red team interview/networking/IP Addresses.md",
-    "red team interview/red team/interview question/Cách viết tài liệu ROE (Residential Operational Analysis.md",
-    "red team interview/networking/TCP-IP/IPV6.md",
+    "red team interview/networking/Static IP.md",
+    "red team interview/window",
     "red team interview/networking"
   ]
 }

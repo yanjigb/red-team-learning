@@ -1,0 +1,1 @@
+The purpose of using a source port number is used to keep track of multiple conversations between devices, and keep an open entry for the response from the server

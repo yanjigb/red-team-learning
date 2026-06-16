@@ -1,7 +1,9 @@
+Là một dãy số cho biết thiết bị ứng dụng nào nên xử lý dữ liệu
+Cổng giúp kết nối với đúng ứng dụng
+
 Một máy chạy nhiều dịch vụ.
 Làm sao biết gửi tới ứng dụng nào?
 Dùng Port.
-
 
 Ví dụ:
 
@@ -34,3 +36,10 @@ Ví dụ:
 ```
 53
 ```
+
+![[WELL-KNOWN PORTS]]
+
+![[Registered Ports]]
+
+![[Private Ports]]
+

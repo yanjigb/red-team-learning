@@ -1,0 +1,1 @@
+Giúp xác định kích thước mạng cục bộ. Giúp cho thiết bị biết mạng đó lớn hay nhỏ

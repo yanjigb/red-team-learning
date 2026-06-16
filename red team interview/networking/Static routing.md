@@ -1,0 +1,1 @@
+Hướng dẫn routes cần chuyển đến đâu trong mạng nhỏ

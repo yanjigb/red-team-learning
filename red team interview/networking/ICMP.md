@@ -1,0 +1,1 @@
+Ping sử dụng giao thức ICMP, là một giao thức được sử dụng để khắc phục sự cố mạng

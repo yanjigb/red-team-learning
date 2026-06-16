@@ -1,4 +1,4 @@
-MAC là số căn cước của thiết bị.
+MAC là số căn cước của thiết bị để biết nhau.
 Mỗi card mạng có MAC.
 
 Ví dụ:

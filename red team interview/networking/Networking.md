@@ -19,3 +19,41 @@ Networks are simply things connected
 ![[OSI Model]]
 
 ![[PORTS NUMBER]]
+
+![[Ethernet]]
+
+![[Wifi]]
+
+![[Switch]]
+
+![[Subnet]]
+
+![[Router]]
+
+![[Routes]]
+
+![[OSPF]]
+
+![[BGP]]
+
+![[TCP]]
+
+![[UDP]]
+
+![[Port]]
+
+![[Firewall]]
+
+![[TLS]]
+
+![[SSL]]
+
+![[VPN]]
+
+![[DNS]]
+
+![[HTTP]]
+
+![[HTTPS]]
+
+![[Load balancer]]

@@ -1,25 +1,13 @@
-TCP giống shipper có trách nhiệm.
+Tạo ra kết nối giữa 2 thiết bị trước khi gửi bất kỳ dữ liệu nào. Mục đích là để đảm bảo mọi gói dữ liệu đều được gửi đến thành công
 
-Nó luôn hỏi:
-
-```
-Anh nhận được chưa?
-```
-
-Nếu chưa:
-
-```
-Gửi lại
-```
+Nếu mât gói thì gửi lại
 
 Đặc điểm:
-
-- Chậm hơn
+- Chậm hơn do phải chờ xác nhận
 - Chính xác
 - Tin cậy
 
 Ví dụ:
-
 - HTTPS
 - SSH
 - FTP
@@ -28,3 +16,7 @@ Ví dụ:
 ![[TCP 3-Way Handshake]]
 
 ![[TCP Flags]]
+
+![[Segments]]
+
+![[TCP communication]]

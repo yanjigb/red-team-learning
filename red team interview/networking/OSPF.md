@@ -1,0 +1,1 @@
+Là một giao thức định tuyến cho phép các bộ định tuyến trong cùng một tổ chức giao tiếp với nhau để tự động tìm ra đường đi tối ưu nhất
