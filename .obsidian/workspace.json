@@ -11,10 +11,14 @@
             "id": "401a25ebb6c821ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "red team interview/networking/Firewall.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Firewall"
             }
           }
         ]
@@ -179,18 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "401a25ebb6c821ea",
+  "active": "543a97c767c29abd",
   "lastOpenFiles": [
+    "red team interview/networking/Load balancer.md",
+    "red team interview/networking/SSL.md",
     "red team interview/networking/BGP.md",
     "red team interview/networking/Networking.md",
-    "Load balancer.md",
     "red team interview/networking/HTTPS.md",
     "red team interview/networking/HTTP.md",
     "red team interview/networking/TCP-IP/DNS.md",
-    "VPN.md",
-    "SSL.md",
-    "TLS.md",
-    "Firewall.md",
+    "red team interview/networking/VPN.md",
+    "red team interview/networking/TLS.md",
+    "red team interview/networking/Firewall.md",
     "red team interview/networking/TCP-IP/Port.md",
     "red team interview/networking/Registered Ports.md",
     "red team interview/networking/TCP-IP/UDP.md",
