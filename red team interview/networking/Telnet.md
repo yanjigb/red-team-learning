@@ -1,0 +1,1 @@
+Là một giao thức được thiết kế cho kết nối từ xa, cho phép người dùng thiết lập kết nối giữa một điểm cuối từ xa và máy chủ để bắt đầu một phiên làm việc từ xa

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NAT.md",
+                "file": "red team interview/networking/Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NAT"
+              "title": "Networking"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "401a25ebb6c821ea",
   "lastOpenFiles": [
+    "red team interview/networking/OSI Model.md",
+    "red team interview/networking/ARP.md",
+    "red team interview/networking/Telnet.md",
     "red team interview/networking/Networking.md",
-    "NAT.md",
+    "Untitled.canvas",
+    "red team interview/networking/SMTP.md",
+    "red team interview/networking/SMB.md",
+    "red team interview/networking/PORTS NUMBER.md",
+    "red team interview/networking/FTP.md",
+    "red team interview/networking/NAT.md",
     "red team interview/networking/TCP-IP/IPV6.md",
     "red team interview/networking/Bluetooth.md",
     "red team interview/networking/SSH.md",
@@ -195,11 +203,8 @@
     "red team interview/networking/Public address.md",
     "red team interview/networking/Private address.md",
     "red team interview/networking/Wifi.md",
-    "red team interview/networking/PORTS NUMBER.md",
-    "red team interview/networking/FTP.md",
     "red team interview/networking/IMAP.md",
     "red team interview/networking/POP.md",
-    "red team interview/networking/SMTP.md",
     "red team interview/networking/BGP.md",
     "red team interview/networking/SSL.md",
     "red team interview/networking/Load balancer.md",
@@ -207,10 +212,6 @@
     "red team interview/networking/HTTPS.md",
     "red team interview/networking/HTTP.md",
     "red team interview/networking/TCP-IP/DNS.md",
-    "red team interview/networking/VPN.md",
-    "red team interview/networking/TLS.md",
-    "red team interview/networking/TCP-IP/Port.md",
-    "red team interview/networking/Registered Ports.md",
     "red team interview/window",
     "red team interview/networking"
   ]

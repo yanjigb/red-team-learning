@@ -1,4 +1,15 @@
-Networks are simply things connected
+Networks are simply things connected to share infomation
+
+How it works:
+Your device (IP address)
+|
+Switch
+|
+Router
+|
+Internet (wan)
+|
+Server
 
 ![[Internet]]
 
@@ -73,3 +84,9 @@ Networks are simply things connected
 ![[Wifi]]
 
 ![[NAT]]
+
+![[ARP]]
+
+![[SMB]]
+
+![[Telnet]]
