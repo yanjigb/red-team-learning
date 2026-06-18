@@ -5,3 +5,14 @@ IP address (or **I**nternet **P**rotocol) address can be used as a way of iden
 ![[Static IP]]
 
 ![[DHCP]]
+
+![[Private addres]]
+
+![[Public address]]
+
+| Dải IP (Bắt đầu bằng)       | Loại        | Ghi nhớ            |
+| --------------------------- | ----------- | ------------------ |
+| **10.x.x.x**                | **Private** | Dễ nhớ nhất        |
+| **172.16.x.x – 172.31.x.x** | **Private** | Khoảng 16 đến 31   |
+| **192.168.x.x**             | **Private** | Phổ biến ở nhà     |
+| **Còn lại**                 | **Public**  | Dùng trên Internet |

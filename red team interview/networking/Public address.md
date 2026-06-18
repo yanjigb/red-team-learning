@@ -1,0 +1,1 @@
+- Nếu số thứ hai khác 168 → Thường là **Public**. (_Ví dụ:_ `192.133.x.x` là Public)

@@ -1,0 +1,1 @@
+Sử dụng băng tần 2.4GHz

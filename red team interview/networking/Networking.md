@@ -67,3 +67,9 @@ Networks are simply things connected
 ![[IMAP]]
 
 ![[FTP]]
+
+![[Bluetooth]]
+
+![[Wifi]]
+
+![[NAT]]

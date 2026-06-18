@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "network",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -14,9 +14,9 @@
   "lineSizeMultiplier": 1.20547743055556,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 19.9392361111111,
-  "linkStrength": 0.837326388888889,
-  "linkDistance": 194,
-  "scale": 0.08815089403231885,
-  "close": true
+  "repelStrength": 20,
+  "linkStrength": 0.577430555555556,
+  "linkDistance": 30,
+  "scale": 0.402158528677039,
+  "close": false
 }
