@@ -1,3 +1,5 @@
+KHÔNG HANDSHAKE
+
 Không kiểm tra.
 Không xác nhận.
 Không gửi lại.

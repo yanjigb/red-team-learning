@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "udp",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.577430555555556,
   "linkDistance": 30,
-  "scale": 0.043170215363956745,
-  "close": true
+  "scale": 0.38331401151107075,
+  "close": false
 }

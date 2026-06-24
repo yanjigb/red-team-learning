@@ -21,3 +21,4 @@ Network Access
 TCP = Tin cậy  
 UDP = Tốc độ
 
+![[Pasted image 20260619070238.png]]

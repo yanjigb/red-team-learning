@@ -1,4 +1,4 @@
-Giúp kết nối các mạng khác nhau. Nó giúp xác định địa chỉ IP đích và quyết định nơi sẽ đưa dữ liệu đến tiếp theo
+Giúp kết nối các mạng khác nhau và điều hướng lưu lượng truy cập giữa chúng trong nhà (LAN). Nó giúp xác định địa chỉ IP đích và quyết định nơi sẽ đưa dữ liệu đến tiếp theo
 
 1 Mạng có thể có nhiều Router được kết nối với mạng
 

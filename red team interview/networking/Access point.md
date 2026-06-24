@@ -1,0 +1,1 @@
+Là 1 thiết bị tạo ra mạng không dây

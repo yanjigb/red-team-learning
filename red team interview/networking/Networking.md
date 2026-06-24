@@ -35,11 +35,7 @@ Server
 
 ![[Wifi]]
 
-![[Switch]]
-
 ![[Subnet]]
-
-![[Router]]
 
 ![[Routes]]
 
@@ -90,3 +86,17 @@ Server
 ![[SMB]]
 
 ![[Telnet]]
+
+![[Protocol]]
+
+![[Pan]]
+
+![[LAN]]
+
+![[MAN]]
+
+![[WAN]]
+
+![[Network hardware]]
+
+![[Traffic]]

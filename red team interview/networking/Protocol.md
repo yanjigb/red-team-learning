@@ -1,0 +1,1 @@
+Là tập hợp các quy tắc xác định cách thức diễn ra quá trình giao tiếp

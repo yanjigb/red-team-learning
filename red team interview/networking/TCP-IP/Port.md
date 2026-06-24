@@ -1,7 +1,8 @@
-Là một dãy số cho biết thiết bị ứng dụng nào nên xử lý dữ liệu
+Là một dãy số cho biết thiết bị ứng dụng nào nên xử lý dữ liệu (0 - 65535)
+
 Cổng giúp kết nối với đúng ứng dụng
 
-Một máy chạy nhiều dịch vụ.
+ Một máy chạy nhiều dịch vụ.
 Làm sao biết gửi tới ứng dụng nào?
 Dùng Port.
 
